@@ -265,6 +265,10 @@ img {
       /* padding: 60px 0; */
       background-color: #f8f9fa;
     }
+    .alazea-btn{
+      position: absolute;
+      top: 102%;
+    }
 
     .vision-mission-text {
       padding: 0 40px;
